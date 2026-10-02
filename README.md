@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-University student: Computer Science (IU) and Information Science(UNISA)<br>DA, SDE, Cyber, whichever one rocks my boat lwk.<br>" I'm just a girl"<br><br>
+University student: Computer Science (IU) and Information Science(UNISA)<br>DA, SDE, Cyber, whichever one rocks my boat lwk.<br> last coded in 2024...<br><br>
 
 
 ## 🌐 Socials:
